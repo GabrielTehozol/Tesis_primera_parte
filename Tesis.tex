@@ -1,0 +1,478 @@
+\documentclass[12pt,oneside]{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+\usepackage{babel}
+\babelprovide[main, import]{spanish}
+
+\usepackage{amsmath}   % <- nuevo
+\usepackage{hyperref}  % <- nuevo
+\usepackage[hidelinks]{hyperref}
+\usepackage[colorlinks=false]{hyperref}
+\usepackage{csquotes}
+
+\usepackage[backend=biber,style=apa,sorting=nyt]{biblatex}
+\DeclareLanguageMapping{spanish}{spanish-apa}
+\addbibresource{referencias.bib}
+
+
+
+% Opcional: interlineado 1.5
+%\onehalfspacing
+% >>> Sin sangrado de párrafo
+\setlength{\parindent}{0pt}
+% Espacio entre párrafos:
+% \setlength{\parskip}{0.5em}
+%-----------------------------------------------------
+% Datos de portada
+%-----------------------------------------------------
+\title{Protocolo de investigación\\[0.5em]
+Financiarización, Distribución Funcional del Ingreso,\\
+y Política Salarial en México:\\[0.25em]
+Un análisis empírico del periodo 2004--2024}
+
+\author{Gabriel Tehozol Hernández\\[0.3em]
+{\small Facultad de Economía, UNAM}} % Cambia por tus datos reales
+
+\date{Octubre 2025} % O fija una fecha específica
+
+%=====================================================
+\begin{document}
+%=====================================================
+
+\maketitle
+\thispagestyle{empty}
+\cleardoublepage
+
+% Opcional: índice
+%\tableofcontents
+%\cleardoublepage
+
+%-----------------------------------------------------
+\chapter*{Introducción}
+%-----------------------------------------------------
+
+El presente protocolo de investigación tiene como objetivo formular y delimitar un estudio empírico sobre la relación entre financiarización, distribución funcional del ingreso y política salarial en México durante el periodo 2004--2024. Se parte de la hipótesis de que la profundización financiera y la creciente centralidad de las finanzas en la economía mexicana han contribuido al deterioro de la participación salarial en el ingreso, y de que el reciente cambio de orientación de la política de salario mínimo podría estar actuando como un mecanismo parcial de contrapeso frente a dichas tendencias. 
+
+El capítulo se organiza en cuatro apartados: en primer lugar, se expone el \emph{planteamiento del problema}, donde se contrasta la visión ortodoxa sobre el papel del sistema financiero con la experiencia mexicana en un contexto de financiarización. En segundo lugar, se presenta la \emph{pregunta de investigación}; en tercero, se enuncia la \emph{hipótesis} central; y, finalmente, se establece el \emph{objetivo general} del estudio.
+
+\cleardoublepage
+
+%-----------------------------------------------------
+\chapter*{Planteamiento del problema}
+%-----------------------------------------------------
+
+Dentro del enfoque ortodoxo, un supuesto central es que la existencia de mercados financieros desarrollados mejora la asignación del ahorro, al conectar de manera eficiente a agentes superavitarios con agentes deficitarios. Bajo esta premisa, el ahorro canalizado a través del sistema financiero se transforma ``naturalmente'' en inversión productiva, lo cual debería reflejarse en mayores tasas de acumulación de capital, crecimiento económico sostenido y generación de empleo \parencite{king_levine_1993,levine_2005}. En esa lógica, una economía con alto grado de profundización y sofisticación financiera tendría que exhibir, como rasgos estructurales, una expansión persistente de la inversión real y, asociadamente, una participación de los salarios en el producto al menos estable, dada la expectativa de aumento del empleo y del ingreso laboral. La evidencia reciente, sin embargo, sugiere que más allá de cierto umbral el crecimiento del sector financiero puede tener efectos negativos sobre el crecimiento y la acumulación de capital \parencite{arcand_berkes_panizza_2015}.
+
+No obstante, la experiencia mexicana desde la década de 1990, y particularmente en el periodo que se inicia en 2004, plantea una divergencia significativa respecto a esa predicción teórica. La literatura crítica sobre financiarización ha mostrado que, cuando las condiciones financieras resultan altamente rentables, el capital tiende a reorientarse hacia la compra de activos y la obtención de ganancias financieras de corto plazo, modificando el comportamiento de empresas no financieras, bancos y hogares \parencite{epstein_2005,lapavitsas_2013}. En este contexto, la maximización del valor para el accionista y la presión de los mercados de capitales inducen estrategias de distribución de dividendos y recompra de acciones en detrimento de la inversión productiva \parencite{lazonick_osullivan_2000}, al tiempo que la expansión de la esfera financiera se asocia con una desaceleración de la acumulación de capital y del crecimiento \parencite{stockhammer_2004,hein_2012}. 
+
+Más aún, diversos trabajos post-kaleckianos y empíricos documentan que la financiarización opera mediante canales que tienden a reducir la participación de los salarios en el ingreso: aumento del poder de mercado y de la orientación hacia el accionista, debilitamiento de la negociación salarial, mayor competencia internacional y disciplinamiento financiero de las empresas \parencite{hein_2012,kohler_guschanski_stockhammer_2019}. En conjunto, se configura un régimen en el que la expansión financiera coexiste con estancamiento productivo y deterioro distributivo.
+
+En el caso de México, la evidencia apunta a que el débil desempeño del producto desde mediados de los años ochenta se ha vinculado con políticas macroeconómicas restrictivas y con un deterioro de la participación de los salarios en el producto, en un contexto de creciente apertura y liberalización financiera \parencite{caballero_lopez_2014}. Trabajos recientes han mostrado que la caída de la participación salarial se concentra especialmente en los sectores comerciables, en particular en la manufactura, y que el aumento de la rentabilidad no se ha traducido en mayores tasas de inversión, lo que sugiere la presencia de un régimen de crecimiento liderado por las finanzas más que por la demanda efectiva y la acumulación productiva \parencite{ros_2015,samaniego_2014}.
+
+A esta tendencia estructural se suma la trayectoria salarial observada en el periodo de estudio. Durante buena parte de 2004--2018, el salario mínimo real se mantuvo estancado en niveles históricamente bajos, en un contexto de debilitamiento de la negociación colectiva y de segmentación del mercado laboral. Este comportamiento se asocia con el estancamiento del salario medio, una demanda interna limitada y la caída de la participación de los salarios en el ingreso, documentada para México por distintos trabajos \parencite{caballero_lopez_2014,ros_2015,samaniego_2014}. 
+
+Sin embargo, a partir del cambio de política salarial hacia el final del sexenio 2012--2018 y de los incrementos sustantivos del salario mínimo implementados a partir de 2019, se observa una recuperación parcial de la masa salarial y efectos positivos sobre los ingresos laborales, con evidencia de \emph{efecto faro} sobre otros salarios \parencite{campos_esquivel_santillan_2017,bielschowsky_etal_2022}. Estudios recientes muestran, además, que el incremento del salario mínimo ha tenido impactos relevantes sobre la distribución del ingreso laboral y sobre brechas específicas, como la brecha salarial de género \parencite{alvarado_orraca_cabrera_2023}. 
+
+Este contraste temporal sugiere que, en una economía altamente financiarizada, la ausencia de una intervención estatal activa en materia salarial tiende a consolidar dinámicas regresivas en la distribución funcional del ingreso; mientras que una política salarial deliberada, sostenida por el Estado, puede actuar como contrapeso parcial o incluso revertir parcialmente esas tendencias, articulando la recuperación del salario mínimo con una estrategia de desarrollo orientada a la expansión de la demanda interna y del empleo de calidad.
+
+
+\chapter*{Definición y medición de la distribución funcional del ingreso}
+
+En este trabajo, la \emph{distribución funcional del ingreso} se refiere al reparto del ingreso generado en la economía entre dos grandes categorías: salarios (remuneración del trabajo asalariado y, en su caso, trabajo por cuenta propia) y excedente empresarial (beneficios, rentas e ingreso mixto). Se trata, por tanto, de una perspectiva que distingue entre la remuneración a los factores de producción ---trabajo y capital---, más que entre individuos o grupos de hogares.
+
+Desde una perspectiva clásica y postkeynesiana, la distribución funcional del ingreso no se determina en mercados de factores competitivos que remuneran a cada factor según su producto marginal, sino a través de mecanismos macroeconómicos e institucionales vinculados a la inversión, al ahorro y al poder de mercado. En particular, las contribuciones de Kaldor y Kalecki ofrecen dos enfoques complementarios que guían la interpretación de la participación salarial en este estudio.
+
+\section*{Kaldor: distribución, ahorro e inversión}
+
+En su célebre ensayo sobre \emph{teorías alternativas de la distribución}, Kaldor plantea un enfoque en el que la distribución entre salarios y beneficios está ligada a las propensiones al ahorro de trabajadores y capitalistas, y a la relación entre inversión y producto \parencite{kaldor_1955}. Bajo la hipótesis de que los trabajadores tienen una propensión al ahorro muy baja (o nula) y los capitalistas una propensión elevada, la participación de los beneficios en el ingreso se ajusta de manera tal que genera el volumen de ahorro requerido para financiar una determinada tasa de inversión y crecimiento. En este marco:
+
+\begin{itemize}
+    \item los salarios determinan principalmente el nivel de consumo,
+    \item los beneficios determinan principalmente el ahorro y la inversión,
+    \item y la distribución funcional del ingreso se vuelve una variable \emph{endógena} que se ajusta para compatibilizar inversión, ahorro e ingreso.
+\end{itemize}
+
+En términos estilizados, un mayor cociente inversión/producto tiende a requerir una mayor participación de los beneficios, dado que el ahorro se genera sobre todo a partir de estos últimos. La participación salarial en el ingreso, por tanto, no es un residuo neutral, sino un componente clave del mecanismo de crecimiento: en la medida en que la distribución se desplaza hacia los beneficios, se modifican simultáneamente la capacidad de consumo de los asalariados y el impulso de inversión de los capitalistas \parencite{kaldor_1955}.
+
+\section*{Kalecki: grado de monopolio, fijación de precios y distribución}
+
+El enfoque de Kalecki complementa esta visión al enfatizar que la distribución funcional del ingreso está fuertemente determinada por la \emph{fijación de precios} en mercados oligopólicos y por el \emph{grado de monopolio} de las empresas \parencite{kalecki_1954,kalecki_2013}. En los modelos kaleckianos, los precios se determinan mediante un margen (\emph{mark-up}) sobre los costos directos, principalmente los costos laborales por unidad de producto. El \emph{grado de monopolio} ---es decir, la magnitud del margen de precios sobre costos--- depende de factores como:
+
+\begin{itemize}
+    \item la concentración industrial y el poder de mercado de las empresas,
+    \item la intensidad de la competencia de precios,
+    \item el peso de los costos fijos y de los gastos generales,
+    \item y el poder de negociación de los trabajadores.
+\end{itemize}
+
+En su forma más simple, una parte mayor de los costos incorporados en el margen se traduce en una mayor participación de los beneficios en el ingreso, mientras que la participación de los salarios es una función decreciente del grado de monopolio. Dicho de otro modo, cuanto mayor es el margen de precios sobre costos, mayor es la fracción del producto que se apropia como beneficio y menor la que se destina a salarios \parencite{hein_2012,stockhammer_2012}. De este modo, la distribución funcional del ingreso es el resultado de relaciones de poder en los mercados de bienes y trabajo, más que de la productividad marginal individual.
+
+En síntesis, la perspectiva kaldoriana subraya el vínculo entre distribución, ahorro e inversión, mientras que el enfoque kaleckiano destaca el papel del poder de mercado y de la fijación de precios. Ambos enfoques coinciden en que la participación salarial en el ingreso es una variable endógena, históricamente determinada y sensible a la institucionalidad del mercado laboral, a las estructuras de mercado y a la orientación de la política económica.
+
+\section*{Operacionalización de la distribución funcional del ingreso}
+
+A partir de estas consideraciones teóricas, el análisis empírico se centra en la evolución de la \emph{participación salarial en el ingreso} (\(WS\)) y, de manera complementaria, en la participación del excedente empresarial. La medición se realiza con base en las cuentas nacionales de México.
+
+\subsection*{Participación salarial en el ingreso (\texorpdfstring{$WS$}{WS})}
+
+Como se indicó en la sección de fuentes de información, la variable central que aproxima la distribución funcional es la participación de las remuneraciones de asalariados en el producto:
+
+\[
+WS_t = \frac{\text{Remuneración de asalariados}_t}{PIB_t},
+\]
+
+donde tanto la remuneración de asalariados como el PIB se toman de las cuentas nacionales del INEGI, a precios corrientes. En una versión alternativa, y dado que una parte del trabajo se remunera como ingreso mixto, puede construirse una medida ampliada que incorpore una fracción del ingreso mixto bruto para aproximar mejor la remuneración del trabajo por cuenta propia \parencite{ros_2015,samaniego_2014}.
+
+\subsection*{Participación de beneficios y excedente empresarial}
+
+De forma complementaria, puede definirse la participación del excedente empresarial (beneficios e ingreso mixto) como la porción residual del producto que no corresponde a salarios ni a impuestos netos sobre la producción:
+
+\[
+\Pi S_t = 1 - WS_t - T_t,
+\]
+
+donde \(T_t\) representa la participación de impuestos netos de subsidios sobre la producción y las importaciones. En la práctica, la suma de la participación salarial y de la participación del excedente empresarial aproxima la distribución funcional básica entre trabajo y capital. Esta descomposición es coherente con la perspectiva kaldoriana, en la que el excedente empresarial concentra el grueso del ahorro y la inversión, y con la visión kaleckiana, que interpreta la participación de beneficios como el resultado del grado de monopolio y del poder de negociación en los mercados \parencite{kaldor_1955,kalecki_1954}.
+
+\subsection*{Relación con el resto de variables del estudio}
+
+En el marco de este trabajo, la participación salarial \(WS\) se interpreta como la variable síntesis de la distribución funcional del ingreso. Su evolución se analiza en relación con:
+
+\begin{itemize}
+    \item indicadores de financiarización (peso del sector financiero, profundización del crédito, rentabilidad bursátil),
+    \item la trayectoria de la inversión y el crecimiento,
+    \item y las condiciones del mercado de trabajo y de la política salarial (desempleo, formalidad, densidad sindical, salario mínimo real).
+\end{itemize}
+
+De acuerdo con las perspectivas de Kaldor y Kalecki, se espera que procesos de financiarización intensos, combinados con un entorno de alta concentración y débil poder de negociación laboral, se asocien a una caída de \(WS\). Por el contrario, un cambio de régimen en la política salarial, que eleve el salario mínimo real y fortalezca la masa salarial, puede contribuir a recomponer la participación del trabajo en el ingreso, aun en un contexto de fuerte presencia de la lógica financiera.
+
+
+
+\chapter*{Definición y medición de la financiarización}
+
+En este trabajo se entiende la financiarización como un proceso estructural en el que los motivos, mercados y actores financieros adquieren un peso creciente en el funcionamiento de la economía, de tal forma que condicionan la asignación del excedente, las decisiones de inversión y la distribución del ingreso. Siguiendo una perspectiva amplia, la financiarización implica el aumento del papel de los motivos y mercados financieros en la economía doméstica e internacional \parencite{epstein_2005}, pero también una transformación en la conducta de empresas no financieras, bancos y hogares, caracterizada por el ascenso de las rentas financieras y la búsqueda de ganancias a través de canales financieros más que productivos \parencite{lapavitsas_2013,stockhammer_2004}. 
+
+Desde un enfoque post-kaleckiano, la financiarización se asocia con el incremento del poder de los accionistas y de las finanzas sobre las empresas, lo cual se traduce en una mayor orientación hacia la valorización financiera de corto plazo (dividendos, recompras de acciones, inversiones financieras) en detrimento de la inversión fija y del crecimiento de la masa salarial \parencite{hein_2012}. Al mismo tiempo, la difusión del endeudamiento de los hogares y la expansión del sector financiero refuerzan un régimen de acumulación dominado por las finanzas, en el que la participación de los salarios en el ingreso tiende a reducirse \parencite{kohler_guschanski_stockhammer_2019}.
+
+\section*{Operacionalización empírica de la financiarización}
+
+Dado que la financiarización es un fenómeno complejo y multidimensional, su medición empírica requiere el uso de varios indicadores que capturan diferentes dimensiones del proceso. En este estudio se adopta una estrategia de operacionalización que descompone la financiarización en tres bloques principales, cada uno asociado a un conjunto de variables observables:
+
+\subsection*{(i) Peso del sector financiero en la estructura productiva}
+
+En primer lugar, se considera el aumento relativo del sector financiero en la generación de valor agregado. Para ello se utiliza un indicador del tipo
+
+\[
+VAFIN = \frac{VA_{\text{financiero y de seguros}}}{VA_{\text{total}}}
+\]
+
+que mide la participación del valor agregado del sector financiero y de seguros en el valor agregado total de la economía. Un incremento sostenido de \emph{VAFIN} se interpreta como señal de que una fracción creciente del excedente se apropia en el sector financiero, en línea con la literatura que identifica la financiarización con el aumento de las rentas financieras y del peso macroeconómico de las finanzas \parencite{stockhammer_2004,hein_2012}.
+
+\subsection*{(ii) Profundización del crédito y endeudamiento de empresas y hogares}
+
+En segundo lugar, se incorporan indicadores de profundización crediticia y de endeudamiento privado, desagregados por sector institucional. En particular, se utilizan razones como:
+
+\[
+\text{CRED\_PRIV\_PIB} = \frac{\text{crédito al sector privado}}{PIB}, \quad
+\text{CRED\_EMP\_PIB} = \frac{\text{crédito a empresas}}{PIB}, \quad
+\text{CRED\_HOG\_PIB} = \frac{\text{crédito a hogares}}{PIB}.
+\]
+
+Estas variables capturan la creciente dependencia de empresas y hogares respecto del crédito, elemento central de muchas definiciones de financiarización, que enfatizan la liberalización y profundización de la estructura financiera y la creciente importancia del endeudamiento privado como mecanismo de coordinación económica \parencite{epstein_2005,hein_2009}. En particular, el aumento del crédito a hogares combinado con un estancamiento de la participación salarial sugiere un patrón en el que el consumo y la reproducción social dependen crecientemente de la deuda, más que del ingreso laboral, reforzando la subordinación financiera de los hogares, tal como enfatiza la perspectiva de Lapavitsas sobre la ``expropiación financiera'' de los trabajadores \parencite{lapavitsas_2013}.
+
+\subsection*{(iii) Rentabilidad financiera, bursátil y disciplina externa}
+
+En tercer lugar, se consideran indicadores de la rentabilidad y atractivo de las inversiones financieras, así como de la inserción externa de la economía. Para ello se emplean variables como el rendimiento bursátil agregado (por ejemplo, el rendimiento del índice de la bolsa de valores, \emph{RET\_IPC}), medidas asociadas a la volatilidad bursátil y un indicador de apertura externa:
+
+\[
+\text{RET\_IPC}, \quad \text{VOL\_IPC}, \quad
+OPEN = \frac{X+M}{PIB}.
+\]
+
+El rendimiento bursátil y otras medidas de rentabilidad financiera se interpretan como aproximaciones al \emph{retorno relativo} de las inversiones financieras frente a la inversión productiva. En la medida en que la literatura muestra que la expansión de los mercados de capitales y la orientación hacia el valor para el accionista desplazan la acumulación física y presionan a la baja la participación salarial \parencite{lazonick_osullivan_2000,stockhammer_2004,kohler_guschanski_stockhammer_2019}, altos rendimientos bursátiles persistentes constituyen un canal mediante el cual la financiarización reorienta el excedente hacia activos financieros. 
+
+Por su parte, la apertura externa (\emph{OPEN}) aproxima el grado de exposición de la economía a la disciplina de los mercados internacionales de bienes y capitales. Una mayor apertura, en un contexto de hegemonía de la lógica financiera, tiende a reforzar las restricciones macroeconómicas que desincentivan políticas de expansión salarial y de inversión pública, y con ello contribuye indirectamente al deterioro de la participación salarial \parencite{stockhammer_2012}.
+
+\subsection*{(iv) Síntesis: de los indicadores a la distribución funcional del ingreso}
+
+En conjunto, estos indicadores permiten aproximar empíricamente la financiarización como un vector de procesos que:
+
+\begin{enumerate}
+    \item aumenta el peso del sector financiero en el valor agregado (\emph{VAFIN}),
+    \item profundiza el endeudamiento privado de hogares y empresas (\emph{CRED\_PRIV\_PIB}, \emph{CRED\_EMP\_PIB}, \emph{CRED\_HOG\_PIB}),
+    \item y eleva la rentabilidad y centralidad de los activos financieros frente a la inversión productiva (\emph{RET\_IPC}, \emph{VOL\_IPC}, \emph{OPEN}).
+\end{enumerate}
+
+El vínculo con la distribución funcional del ingreso se establece al analizar cómo la evolución de estos indicadores se relaciona con la trayectoria de la participación salarial en el producto (\emph{WS}) y con variables del mercado de trabajo (desempleo, informalidad, densidad sindical) y de política salarial (salario mínimo real). A partir de la literatura que sostiene que la financiarización ha contribuido a la caída de la participación del trabajo en el ingreso \parencite{kohler_guschanski_stockhammer_2019,stockhammer_2012}, el presente estudio interpreta la financiarización como un conjunto de procesos que tienden a desplazar el excedente hacia las rentas financieras y a debilitar el poder de negociación salarial, efecto que la política de salario mínimo busca, al menos parcialmente, contrarrestar.
+
+
+\chapter*{Fuentes de información y construcción de variables}
+
+En esta sección se describen las fuentes de información empleadas y la forma de construcción de las principales variables del estudio. Salvo que se indique lo contrario, todas las series se transforman a frecuencia trimestral, ya sea mediante promedios o mediante datos de fin de año, y se expresan en términos reales cuando corresponde, utilizando el Índice Nacional de Precios al Consumidor (INPC) del Banco de México como deflactor.
+
+\section*{1. Distribución funcional del ingreso y salarios}
+
+\subsection*{Participación salarial en el ingreso (\texorpdfstring{$WS$}{WS})}
+
+\textbf{Fuente de datos:} INEGI, Sistema de Cuentas Nacionales de México (SCNM).\\
+\textbf{Series de origen:}
+\begin{itemize}
+    \item Remuneración de asalariados (a precios corrientes).
+    \item Producto interno bruto (PIB) a precios corrientes.
+\end{itemize}
+
+\textbf{Construcción:}
+\[
+WS_t = \frac{\text{Remuneración de asalariados}_t}{PIB_t}.
+\]
+
+En una versión alternativa, se puede incorporar una fracción del ingreso mixto bruto para aproximar la remuneración del trabajo por cuenta propia.
+
+\subsection*{Masa salarial real (\texorpdfstring{MASA\_SAL\_REAL}{MASA\_SAL\_REAL})}
+
+\textbf{Fuente de datos:} INEGI, SCNM (remuneraciones de asalariados); Banco de México, Sistema de Información Económica (SIE) para el INPC.\\
+\textbf{Series de origen:}
+\begin{itemize}
+    \item Remuneración de asalariados (nominal, pesos corrientes).
+    \item INPC general.
+\end{itemize}
+
+\textbf{Construcción:}
+\[
+\text{MASA\_SAL\_REAL}_t = \frac{\text{Remuneración de asalariados}_t}{INPC_t / INPC_{\text{base}}}.
+\]
+
+\subsection*{Salario mínimo real (\texorpdfstring{SM\_REAL}{SM\_REAL}) y cambio de régimen salarial (\texorpdfstring{D\_POST\_SM}{D\_POST\_SM})}
+
+\textbf{Fuente de datos:} Comisión Nacional de los Salarios Mínimos (CONASAMI) y Banco de México (SIE).\\
+\textbf{Series de origen:}
+\begin{itemize}
+    \item Salario mínimo nominal diario (pesos corrientes), serie general.
+    \item INPC general (Banxico, SIE).
+\end{itemize}
+
+\textbf{Construcción:}
+\[
+SM\_REAL_t = \frac{\text{Salario mínimo nominal}_t}{INPC_t / INPC_{\text{base}}}.
+\]
+
+La variable de cambio de régimen salarial se define como una dummy que captura el nuevo esquema de incrementos reales del salario mínimo:
+\[
+D\_POST\_SM_t =
+\begin{cases}
+0, & t < t^{\ast},\\
+1, & t \ge t^{\ast},
+\end{cases}
+\]
+donde $t^{\ast}$ es el año (o trimestre) a partir del cual se considera que se inicia la nueva política salarial.
+
+\section*{2. Financiarización vía crédito y endeudamiento privado}
+
+\subsection*{Crédito al sector privado / PIB (\texorpdfstring{CRED\_PRIV\_PIB}{CRED\_PRIV\_PIB})}
+
+\textbf{Fuente de datos:} Banco de México, SIE (crédito al sector privado); INEGI, SCNM (PIB nominal).\\
+\textbf{Series de origen:}
+\begin{itemize}
+    \item Crédito total al sector privado no financiero.
+    \item PIB nominal.
+\end{itemize}
+
+\textbf{Construcción:}
+\[
+\text{CRED\_PRIV\_PIB}_t = \frac{\text{Crédito total al sector privado}_t}{PIB_t}.
+\]
+
+\subsection*{Crédito a empresas / PIB (\texorpdfstring{CRED\_EMP\_PIB}{CRED\_EMP\_PIB})}
+
+\textbf{Fuente de datos:} Banco de México, SIE; INEGI, SCNM.\\
+\textbf{Series de origen:}
+\begin{itemize}
+    \item Cartera de crédito a empresas (sociedades no financieras).
+    \item PIB nominal.
+\end{itemize}
+
+\textbf{Construcción:}
+\[
+\text{CRED\_EMP\_PIB}_t = \frac{\text{Crédito a empresas}_t}{PIB_t}.
+\]
+
+\subsection*{Crédito a hogares / PIB (\texorpdfstring{CRED\_HOG\_PIB}{CRED\_HOG\_PIB})}
+
+\textbf{Fuente de datos:} Banco de México, SIE; INEGI, SCNM.\\
+\textbf{Series de origen:}
+\begin{itemize}
+    \item Crédito al consumo de personas físicas (tarjetas, personales, nómina, etc.).
+    \item Crédito a la vivienda para personas físicas.
+    \item PIB nominal.
+\end{itemize}
+
+\textbf{Construcción:}
+\[
+\text{CRED\_HOG\_PIB}_t = \frac{\text{Crédito al consumo}_t + \text{Crédito a la vivienda}_t}{PIB_t}.
+\]
+
+\section*{3. Mercados financieros y condiciones monetarias}
+
+\subsection*{Índice bursátil y rendimiento (\texorpdfstring{IPC\_NIVEL, RET\_IPC}{IPC\_NIVEL, RET\_IPC})}
+
+\textbf{Fuente de datos:} Banco de México, SIE (índice de precios y cotizaciones de la Bolsa Mexicana de Valores), o datos históricos de la Bolsa Mexicana de Valores (BMV).\\
+\textbf{Series de origen:}
+\begin{itemize}
+    \item Nivel del índice accionario (IPC), frecuencia diaria o mensual.
+\end{itemize}
+
+\textbf{Construcción:}
+\begin{itemize}
+    \item \textbf{IPC\_NIVEL}: promedio anual o nivel de cierre anual del índice.
+    \item \textbf{RET\_IPC}: rendimiento anual del índice, calculado como
+    \[
+    \text{RET\_IPC}_t = \ln(\text{IPC}_t) - \ln(\text{IPC}_{t-1}).
+    \]
+\end{itemize}
+
+\subsection*{Tasa de interés (\texorpdfstring{TIIE\_28}{TIIE\_28}) y volatilidad bursátil (\texorpdfstring{VOL\_IPC}{VOL\_IPC})}
+
+\textbf{Fuente de datos:} Banco de México, SIE.\\
+\textbf{Series de origen:}
+\begin{itemize}
+    \item TIIE a 28 días (diaria o mensual).
+    \item Niveles diarios o mensuales del IPC.
+\end{itemize}
+
+\textbf{Construcción:}
+\begin{itemize}
+    \item \textbf{TIIE\_28}: promedio anual de la TIIE a 28 días.
+    \item \textbf{VOL\_IPC}: desviación estándar de los rendimientos del IPC dentro de cada año $t$.
+\end{itemize}
+
+\section*{4. Sector financiero, apertura e inversión}
+
+\subsection*{Valor agregado del sector financiero / VA total (\texorpdfstring{VAFIN}{VAFIN})}
+
+\textbf{Fuente de datos:} INEGI, SCNM, cuentas por actividad económica.\\
+\textbf{Series de origen:}
+\begin{itemize}
+    \item Valor agregado del sector ``Servicios financieros y de seguros''.
+    \item Valor agregado total de la economía.
+\end{itemize}
+
+\textbf{Construcción:}
+\[
+\text{VAFIN}_t = \frac{VA_{\text{servicios financieros y de seguros},t}}{VA_{\text{total},t}}.
+\]
+
+\subsection*{Apertura externa (\texorpdfstring{OPEN}{OPEN})}
+
+\textbf{Fuente de datos:} INEGI, SCNM o balanza de bienes y servicios.\\
+\textbf{Series de origen:}
+\begin{itemize}
+    \item Exportaciones totales de bienes y servicios ($X_t$).
+    \item Importaciones totales de bienes y servicios ($M_t$).
+    \item PIB.
+\end{itemize}
+
+\textbf{Construcción:}
+\[
+\text{OPEN}_t = \frac{X_t + M_t}{PIB_t}.
+\]
+
+\subsection*{Crecimiento del PIB real (\texorpdfstring{PIB\_REAL\_G}{PIB\_REAL\_G}) e inversión fija / PIB (\texorpdfstring{INV\_FIJA\_PIB}{INV\_FIJA\_PIB})}
+
+\textbf{Fuente de datos:} INEGI, SCNM.\\
+\textbf{Series de origen:}
+\begin{itemize}
+    \item PIB real (en volumen, base 2018 u otra base oficial).
+    \item Formación bruta de capital fijo (FBCF, total o privada).
+    \item PIB nominal.
+\end{itemize}
+
+\textbf{Construcción:}
+\[
+\text{PIB\_REAL\_G}_t = \ln(PIB^{\text{real}}_t) - \ln(PIB^{\text{real}}_{t-1}),
+\]
+\[
+\text{INV\_FIJA\_PIB}_t = \frac{\text{FBCF}_t}{PIB_t}.
+\]
+
+\section*{5. Mercado de trabajo y poder de negociación}
+
+\subsection*{Desempleo, empleo y formalidad (\texorpdfstring{U, EP\_RATE, FORMAL\_IMSS}{U, EP\_RATE, FORMAL\_IMSS})}
+
+\textbf{Fuente de datos:} INEGI, Encuesta Nacional de Ocupación y Empleo (ENOE); Instituto Mexicano del Seguro Social (IMSS).\\
+\textbf{Series de origen:}
+\begin{itemize}
+    \item Tasa de desocupación abierta (ENOE).
+    \item Población ocupada y población total o en edad de trabajar (ENOE).
+    \item Número de asegurados permanentes y eventuales (IMSS).
+\end{itemize}
+
+\textbf{Construcción:}
+\begin{itemize}
+    \item \textbf{U}: tasa de desempleo publicada por INEGI (promedio anual).
+    \item \textbf{EP\_RATE} (tasa de empleo o empleo/población):
+    \[
+    \text{EP\_RATE}_t = \frac{\text{Ocupados}_t}{\text{Población}_t}.
+    \]
+    \item \textbf{FORMAL\_IMSS} (empleo formal):
+    \[
+    \text{FORMAL\_IMSS}_t = \frac{\text{Asegurados IMSS}_t}{\text{Ocupados totales}_t}.
+    \]
+\end{itemize}
+
+\subsection*{Densidad sindical (\texorpdfstring{UD}{UD})}
+
+\textbf{Fuente de datos:} Bases de datos internacionales sobre relaciones laborales, como ICTWSS (Institutional Characteristics of Trade Unions, Wage Setting, State Intervention and Social Pacts) u otras fuentes comparables (OCDE, OIT).\\
+\textbf{Series de origen:}
+\begin{itemize}
+    \item Densidad sindical nacional (porcentaje de asalariados afiliados a un sindicato).
+\end{itemize}
+
+\textbf{Construcción:} se utiliza directamente la tasa anual reportada para México.
+
+\section*{6. Precios, deflactores y vivienda}
+
+\subsection*{Índice de precios al consumidor (\texorpdfstring{INPC}{INPC})}
+
+\textbf{Fuente de datos:} Banco de México, SIE.\\
+\textbf{Series de origen:}
+\begin{itemize}
+    \item Índice nacional de precios al consumidor (INPC), frecuencia mensual.
+\end{itemize}
+
+\textbf{Construcción:} se utiliza como deflactor para convertir a términos reales las variables nominales (salarios, masa salarial, precios de vivienda, etc.), normalizando por un año base.
+
+\subsection*{Precio real de vivienda (\texorpdfstring{PPI\_REAL}{PPI\_REAL})}
+
+\textbf{Fuente de datos:} Sociedad Hipotecaria Federal (SHF) – índice de precios de la vivienda; Banco de México, SIE (INPC).\\
+\textbf{Series de origen:}
+\begin{itemize}
+    \item Índice de precios de la vivienda (SHF), en términos nominales.
+    \item INPC general.
+\end{itemize}
+
+\textbf{Construcción:}
+\[
+\text{PPI\_REAL}_t = \frac{\text{Índice de precios de vivienda}_t}{INPC_t / INPC_{\text{base}}},
+\]
+y, cuando se requiere, su tasa de crecimiento real se calcula como
+\[
+\Delta \ln(\text{PPI\_REAL}_t) = \ln(\text{PPI\_REAL}_t) - \ln(\text{PPI\_REAL}_{t-1}).
+\]
+
+\vspace{1em}
+
+En conjunto, estas variables permiten operacionalizar empíricamente la financiarización, la distribución funcional del ingreso y las condiciones del mercado de trabajo y la política salarial en México durante el periodo 2004--2024, sustentando el análisis econométrico posterior.
+
+
+
+\cleardoublepage
+
+%-----------------------------------------------------
+% Bibliografía
+%-----------------------------------------------------
+\printbibliography[title={Referencias.bib}]
+
+%=====================================================
+\end{document}
+%=====================================================

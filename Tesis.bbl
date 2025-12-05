@@ -1,0 +1,1572 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/apasortcite//global/global/global}
+    \entry{alvarado_orraca_cabrera_2023}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3df68f5e43c384de01098f2fb6c368e0}{%
+           family={Alvarado\bibnamedelima Pérez},
+           familyi={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={René},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93f0c82d59d2eba953d7f27b952576ab}{%
+           family={Orraca\bibnamedelima Romano},
+           familyi={O\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Pedro\bibnamedelima Paulo},
+           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93216ea3b239f22f41491f7c534fa69b}{%
+           family={Cabrera-Hernández},
+           familyi={C\bibinithyphendelim H\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{14e3b883d6357b9496ed387878dbb195}
+      \strng{fullhash}{3c6b15aaceb62e86e0cf2c797d3288a3}
+      \strng{fullhashraw}{3c6b15aaceb62e86e0cf2c797d3288a3}
+      \strng{bibnamehash}{3c6b15aaceb62e86e0cf2c797d3288a3}
+      \strng{authorbibnamehash}{3c6b15aaceb62e86e0cf2c797d3288a3}
+      \strng{authornamehash}{14e3b883d6357b9496ed387878dbb195}
+      \strng{authorfullhash}{3c6b15aaceb62e86e0cf2c797d3288a3}
+      \strng{authorfullhashraw}{3c6b15aaceb62e86e0cf2c797d3288a3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{El Trimestre Económico}
+      \field{number}{360}
+      \field{title}{El efecto de duplicar el salario mínimo en la brecha de género en empleo y salarios en México}
+      \field{volume}{90}
+      \field{year}{2023}
+      \field{pages}{961\bibrangedash 999}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.20430/ete.v90i360.1777
+      \endverb
+    \endentry
+    \entry{arcand_berkes_panizza_2015}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1db40a40ab5b0673f8ddc07ff8afe9a3}{%
+           family={Arcand},
+           familyi={A\bibinitperiod},
+           given={Jean-Louis},
+           giveni={J\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6465c1fb667359e338edefc4cc0b0d8}{%
+           family={Berkes},
+           familyi={B\bibinitperiod},
+           given={Enrico},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd57960c368ca81c5b1f70ee37a35fb3}{%
+           family={Panizza},
+           familyi={P\bibinitperiod},
+           given={Ugo},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{88be716ac55f1d1348f667f1ac9a82e1}
+      \strng{fullhash}{b59e4586a6ed76254ddf559387c2b5eb}
+      \strng{fullhashraw}{b59e4586a6ed76254ddf559387c2b5eb}
+      \strng{bibnamehash}{b59e4586a6ed76254ddf559387c2b5eb}
+      \strng{authorbibnamehash}{b59e4586a6ed76254ddf559387c2b5eb}
+      \strng{authornamehash}{88be716ac55f1d1348f667f1ac9a82e1}
+      \strng{authorfullhash}{b59e4586a6ed76254ddf559387c2b5eb}
+      \strng{authorfullhashraw}{b59e4586a6ed76254ddf559387c2b5eb}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Growth}
+      \field{number}{2}
+      \field{title}{Too Much Finance?}
+      \field{volume}{20}
+      \field{year}{2015}
+      \field{pages}{105\bibrangedash 148}
+      \range{pages}{44}
+      \verb{doi}
+      \verb 10.1007/s10887-015-9115-2
+      \endverb
+    \endentry
+    \entry{bielschowsky_etal_2022}{report}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=1c0802b6c3870fef0d8990ebb5873853}{%
+           family={Bielschowsky},
+           familyi={B\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b54a4184ff87482375e3350d0cbe5ba}{%
+           family={Castillo},
+           familyi={C\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod},
+           givenun=0,
+           prefix={del},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=ac7fc2b4295707038b165c7d81422de0}{%
+           family={Squeff},
+           familyi={S\bibinitperiod},
+           given={Gabriel\bibnamedelima Coelho},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=225ce75b1034bcba862b4b757517d46e}{%
+           family={Orozco},
+           familyi={O\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1b5e2864026ee3a1085852e28bc2011}{%
+           family={Beteta},
+           familyi={B\bibinitperiod},
+           given={Hugo\bibnamedelima E.},
+           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Comisión Económica para América Latina y el Caribe (CEPAL)}%
+      }
+      \strng{namehash}{6db84a10fce84a04ff8e037c1e6d162c}
+      \strng{fullhash}{933166241844bed87551be7cac373bef}
+      \strng{fullhashraw}{933166241844bed87551be7cac373bef}
+      \strng{bibnamehash}{933166241844bed87551be7cac373bef}
+      \strng{authorbibnamehash}{933166241844bed87551be7cac373bef}
+      \strng{authornamehash}{6db84a10fce84a04ff8e037c1e6d162c}
+      \strng{authorfullhash}{933166241844bed87551be7cac373bef}
+      \strng{authorfullhashraw}{933166241844bed87551be7cac373bef}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{188}
+      \field{series}{Estudios y Perspectivas -- Sede Subregional de la CEPAL en México}
+      \field{title}{Estrategia de desarrollo con redistribución del ingreso: salario mínimo y frentes de expansión en México}
+      \field{type}{techreport}
+      \field{year}{2022}
+    \endentry
+    \entry{caballero_lopez_2014}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4b88c023207bc43c59ca11d83253bea1}{%
+           family={Caballero\bibnamedelima Urdiales},
+           familyi={C\bibinitperiod\bibinitdelim U\bibinitperiod},
+           given={Emilio},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac7303cac00e5b68a76d68b03c6b593f}{%
+           family={López\bibnamedelima Gallardo},
+           familyi={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Julio},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{af9ab8defa480222181400e5e523344a}
+      \strng{fullhash}{af9ab8defa480222181400e5e523344a}
+      \strng{fullhashraw}{af9ab8defa480222181400e5e523344a}
+      \strng{bibnamehash}{af9ab8defa480222181400e5e523344a}
+      \strng{authorbibnamehash}{af9ab8defa480222181400e5e523344a}
+      \strng{authornamehash}{af9ab8defa480222181400e5e523344a}
+      \strng{authorfullhash}{af9ab8defa480222181400e5e523344a}
+      \strng{authorfullhashraw}{af9ab8defa480222181400e5e523344a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Investigación Económica}
+      \field{number}{285}
+      \field{title}{Demanda efectiva y distribución del ingreso en la evolución reciente de la economía mexicana}
+      \field{volume}{72}
+      \field{year}{2014}
+      \field{pages}{141\bibrangedash 163}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1016/S0185-1667(13)72599-2
+      \endverb
+    \endentry
+    \entry{campos_esquivel_santillan_2017}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bf4940a0d81c7251843f436c1b423bfc}{%
+           family={Campos\bibnamedelima Vázquez},
+           familyi={C\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Raymundo\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67ecd61a08d59d7f9a5957e6effac6fc}{%
+           family={Esquivel},
+           familyi={E\bibinitperiod},
+           given={Gerardo},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15e409566534004f8d7d8a68b7407e99}{%
+           family={Santillán\bibnamedelima Hernández},
+           familyi={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Alma\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5df5e61e1120a2aa01b327c357897b0d}
+      \strng{fullhash}{e375cdab3d30a67ee056f4ea180b871e}
+      \strng{fullhashraw}{e375cdab3d30a67ee056f4ea180b871e}
+      \strng{bibnamehash}{e375cdab3d30a67ee056f4ea180b871e}
+      \strng{authorbibnamehash}{e375cdab3d30a67ee056f4ea180b871e}
+      \strng{authornamehash}{5df5e61e1120a2aa01b327c357897b0d}
+      \strng{authorfullhash}{e375cdab3d30a67ee056f4ea180b871e}
+      \strng{authorfullhashraw}{e375cdab3d30a67ee056f4ea180b871e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista de la CEPAL}
+      \field{number}{122}
+      \field{title}{El impacto del salario mínimo en los ingresos y el empleo en México}
+      \field{year}{2017}
+      \field{pages}{205\bibrangedash 234}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.18356/413e4aea-es
+      \endverb
+    \endentry
+    \entry{epstein_2005}{book}{}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=7a78fd683eb9c0ce600975c6eba9b264}{%
+           family={Epstein},
+           familyi={E\bibinitperiod},
+           given={Gerald\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cheltenham}%
+      }
+      \list{publisher}{1}{%
+        {Edward Elgar}%
+      }
+      \strng{namehash}{7a78fd683eb9c0ce600975c6eba9b264}
+      \strng{fullhash}{7a78fd683eb9c0ce600975c6eba9b264}
+      \strng{fullhashraw}{7a78fd683eb9c0ce600975c6eba9b264}
+      \strng{bibnamehash}{7a78fd683eb9c0ce600975c6eba9b264}
+      \strng{editorbibnamehash}{7a78fd683eb9c0ce600975c6eba9b264}
+      \strng{editornamehash}{7a78fd683eb9c0ce600975c6eba9b264}
+      \strng{editorfullhash}{7a78fd683eb9c0ce600975c6eba9b264}
+      \strng{editorfullhashraw}{7a78fd683eb9c0ce600975c6eba9b264}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Financialization and the World Economy}
+      \field{year}{2005}
+    \endentry
+    \entry{hein_2009}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e721b26e3ecd4db48eee14a48259416f}{%
+           family={Hein},
+           familyi={H\bibinitperiod},
+           given={Eckhard},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {IMK at the Hans Böckler Foundation, Macroeconomic Policy Institute}%
+      }
+      \list{location}{1}{%
+        {Düsseldorf}%
+      }
+      \strng{namehash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{fullhash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{fullhashraw}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{bibnamehash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{authorbibnamehash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{authornamehash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{authorfullhash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{authorfullhashraw}{e721b26e3ecd4db48eee14a48259416f}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{1/2009}
+      \field{title}{A (Post-) Keynesian Perspective on ``Financialisation''}
+      \field{type}{IMK Studies}
+      \field{year}{2009}
+    \endentry
+    \entry{hein_2012}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e721b26e3ecd4db48eee14a48259416f}{%
+           family={Hein},
+           familyi={H\bibinitperiod},
+           given={Eckhard},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{fullhash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{fullhashraw}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{bibnamehash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{authorbibnamehash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{authornamehash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{authorfullhash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{authorfullhashraw}{e721b26e3ecd4db48eee14a48259416f}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Post Keynesian Economics}
+      \field{number}{3}
+      \field{title}{{`Financialization,'} Distribution, Capital Accumulation, and Productivity Growth in a Post-Kaleckian Model}
+      \field{volume}{34}
+      \field{year}{2012}
+      \field{pages}{475\bibrangedash 496}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.2753/PKE0160-3477340305
+      \endverb
+    \endentry
+    \entry{kaldor_1955}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3a3bf65c45bab0af4cf95bcd04773679}{%
+           family={Kaldor},
+           familyi={K\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3a3bf65c45bab0af4cf95bcd04773679}
+      \strng{fullhash}{3a3bf65c45bab0af4cf95bcd04773679}
+      \strng{fullhashraw}{3a3bf65c45bab0af4cf95bcd04773679}
+      \strng{bibnamehash}{3a3bf65c45bab0af4cf95bcd04773679}
+      \strng{authorbibnamehash}{3a3bf65c45bab0af4cf95bcd04773679}
+      \strng{authornamehash}{3a3bf65c45bab0af4cf95bcd04773679}
+      \strng{authorfullhash}{3a3bf65c45bab0af4cf95bcd04773679}
+      \strng{authorfullhashraw}{3a3bf65c45bab0af4cf95bcd04773679}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Review of Economic Studies}
+      \field{number}{2}
+      \field{title}{Alternative Theories of Distribution}
+      \field{volume}{23}
+      \field{year}{1955}
+      \field{pages}{83\bibrangedash 100}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.2307/2296292
+      \endverb
+    \endentry
+    \entry{kalecki_1954}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a2020ad660d51566f602508edb0efabd}{%
+           family={Kalecki},
+           familyi={K\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {George Allen \& Unwin}%
+      }
+      \strng{namehash}{a2020ad660d51566f602508edb0efabd}
+      \strng{fullhash}{a2020ad660d51566f602508edb0efabd}
+      \strng{fullhashraw}{a2020ad660d51566f602508edb0efabd}
+      \strng{bibnamehash}{a2020ad660d51566f602508edb0efabd}
+      \strng{authorbibnamehash}{a2020ad660d51566f602508edb0efabd}
+      \strng{authornamehash}{a2020ad660d51566f602508edb0efabd}
+      \strng{authorfullhash}{a2020ad660d51566f602508edb0efabd}
+      \strng{authorfullhashraw}{a2020ad660d51566f602508edb0efabd}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Theory of Economic Dynamics: An Essay on Cyclical and Long-Run Changes in Capitalist Economy}
+      \field{year}{1954}
+    \endentry
+    \entry{kalecki_2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a2020ad660d51566f602508edb0efabd}{%
+           family={Kalecki},
+           familyi={K\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{a2020ad660d51566f602508edb0efabd}
+      \strng{fullhash}{a2020ad660d51566f602508edb0efabd}
+      \strng{fullhashraw}{a2020ad660d51566f602508edb0efabd}
+      \strng{bibnamehash}{a2020ad660d51566f602508edb0efabd}
+      \strng{authorbibnamehash}{a2020ad660d51566f602508edb0efabd}
+      \strng{authornamehash}{a2020ad660d51566f602508edb0efabd}
+      \strng{authorfullhash}{a2020ad660d51566f602508edb0efabd}
+      \strng{authorfullhashraw}{a2020ad660d51566f602508edb0efabd}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Theory of Economic Dynamics}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.4324/9780203708668
+      \endverb
+    \endentry
+    \entry{king_levine_1993}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e068047c81ba350319902fe3f06656cf}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={Robert\bibnamedelima G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c1cd77b28a968c78efc1362f3c7dd21}{%
+           family={Levine},
+           familyi={L\bibinitperiod},
+           given={Ross},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{43dddf3a5a58b28360879ad7cb1fabc6}
+      \strng{fullhash}{43dddf3a5a58b28360879ad7cb1fabc6}
+      \strng{fullhashraw}{43dddf3a5a58b28360879ad7cb1fabc6}
+      \strng{bibnamehash}{43dddf3a5a58b28360879ad7cb1fabc6}
+      \strng{authorbibnamehash}{43dddf3a5a58b28360879ad7cb1fabc6}
+      \strng{authornamehash}{43dddf3a5a58b28360879ad7cb1fabc6}
+      \strng{authorfullhash}{43dddf3a5a58b28360879ad7cb1fabc6}
+      \strng{authorfullhashraw}{43dddf3a5a58b28360879ad7cb1fabc6}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Quarterly Journal of Economics}
+      \field{number}{3}
+      \field{title}{Finance and Growth: Schumpeter Might Be Right}
+      \field{volume}{108}
+      \field{year}{1993}
+      \field{pages}{717\bibrangedash 737}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.2307/2118406
+      \endverb
+    \endentry
+    \entry{kohler_guschanski_stockhammer_2019}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3149ef01a514bc8bf82b17c52563d0b8}{%
+           family={Kohler},
+           familyi={K\bibinitperiod},
+           given={Karsten},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94e4bd4a363e69b465955dcc3e49520f}{%
+           family={Guschanski},
+           familyi={G\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a9dcd2d346549adb569eca71d4f9403}{%
+           family={Stockhammer},
+           familyi={S\bibinitperiod},
+           given={Engelbert},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{70de81c66a1bde79019df947b74bfdaa}
+      \strng{fullhash}{f77df7fba91f066ab2b19248f64957c2}
+      \strng{fullhashraw}{f77df7fba91f066ab2b19248f64957c2}
+      \strng{bibnamehash}{f77df7fba91f066ab2b19248f64957c2}
+      \strng{authorbibnamehash}{f77df7fba91f066ab2b19248f64957c2}
+      \strng{authornamehash}{70de81c66a1bde79019df947b74bfdaa}
+      \strng{authorfullhash}{f77df7fba91f066ab2b19248f64957c2}
+      \strng{authorfullhashraw}{f77df7fba91f066ab2b19248f64957c2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cambridge Journal of Economics}
+      \field{number}{4}
+      \field{title}{The Impact of Financialisation on the Wage Share: A Theoretical Clarification and Empirical Test}
+      \field{volume}{43}
+      \field{year}{2019}
+      \field{pages}{937\bibrangedash 974}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1093/cje/bez021
+      \endverb
+    \endentry
+    \entry{lapavitsas_2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f0e077bce27359e555d6b5006a87d1d3}{%
+           family={Lapavitsas},
+           familyi={L\bibinitperiod},
+           given={Costas},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Verso}%
+      }
+      \strng{namehash}{f0e077bce27359e555d6b5006a87d1d3}
+      \strng{fullhash}{f0e077bce27359e555d6b5006a87d1d3}
+      \strng{fullhashraw}{f0e077bce27359e555d6b5006a87d1d3}
+      \strng{bibnamehash}{f0e077bce27359e555d6b5006a87d1d3}
+      \strng{authorbibnamehash}{f0e077bce27359e555d6b5006a87d1d3}
+      \strng{authornamehash}{f0e077bce27359e555d6b5006a87d1d3}
+      \strng{authorfullhash}{f0e077bce27359e555d6b5006a87d1d3}
+      \strng{authorfullhashraw}{f0e077bce27359e555d6b5006a87d1d3}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Profiting Without Producing: How Finance Exploits Us All}
+      \field{year}{2013}
+    \endentry
+    \entry{lazonick_osullivan_2000}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fdb1537646cba2fbeba819dfc0ef6ff5}{%
+           family={Lazonick},
+           familyi={L\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1043ec5569525cab91df5f474f62980}{%
+           family={O'Sullivan},
+           familyi={O\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{31d034d91aaa992ec3260bb6795a08ea}
+      \strng{fullhash}{31d034d91aaa992ec3260bb6795a08ea}
+      \strng{fullhashraw}{31d034d91aaa992ec3260bb6795a08ea}
+      \strng{bibnamehash}{31d034d91aaa992ec3260bb6795a08ea}
+      \strng{authorbibnamehash}{31d034d91aaa992ec3260bb6795a08ea}
+      \strng{authornamehash}{31d034d91aaa992ec3260bb6795a08ea}
+      \strng{authorfullhash}{31d034d91aaa992ec3260bb6795a08ea}
+      \strng{authorfullhashraw}{31d034d91aaa992ec3260bb6795a08ea}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Economy and Society}
+      \field{number}{1}
+      \field{title}{Maximizing Shareholder Value: A New Ideology for Corporate Governance}
+      \field{volume}{29}
+      \field{year}{2000}
+      \field{pages}{13\bibrangedash 35}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1080/030851400360541
+      \endverb
+    \endentry
+    \entry{levine_2005}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4c1cd77b28a968c78efc1362f3c7dd21}{%
+           family={Levine},
+           familyi={L\bibinitperiod},
+           given={Ross},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=7c80c989fdd0b446cc5cdac1d9584afe}{%
+           family={Aghion},
+           familyi={A\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+        {{hash=acf839c126335d02866e4ac626835882}{%
+           family={Durlauf},
+           familyi={D\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4c1cd77b28a968c78efc1362f3c7dd21}
+      \strng{fullhash}{4c1cd77b28a968c78efc1362f3c7dd21}
+      \strng{fullhashraw}{4c1cd77b28a968c78efc1362f3c7dd21}
+      \strng{bibnamehash}{4c1cd77b28a968c78efc1362f3c7dd21}
+      \strng{authorbibnamehash}{4c1cd77b28a968c78efc1362f3c7dd21}
+      \strng{authornamehash}{4c1cd77b28a968c78efc1362f3c7dd21}
+      \strng{authorfullhash}{4c1cd77b28a968c78efc1362f3c7dd21}
+      \strng{authorfullhashraw}{4c1cd77b28a968c78efc1362f3c7dd21}
+      \strng{editorbibnamehash}{eba02e7b229944e77d9307bb7ab8ea03}
+      \strng{editornamehash}{eba02e7b229944e77d9307bb7ab8ea03}
+      \strng{editorfullhash}{eba02e7b229944e77d9307bb7ab8ea03}
+      \strng{editorfullhashraw}{eba02e7b229944e77d9307bb7ab8ea03}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of Economic Growth}
+      \field{chapter}{12}
+      \field{title}{Finance and Growth: Theory and Evidence}
+      \field{volume}{1}
+      \field{year}{2005}
+      \field{pages}{865\bibrangedash 934}
+      \range{pages}{70}
+      \verb{doi}
+      \verb 10.1016/S1574-0684(05)01012-9
+      \endverb
+    \endentry
+    \entry{ros_2015}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=56f35d6688b417d9ab3cfc777218d21f}{%
+           family={Ros},
+           familyi={R\bibinitperiod},
+           given={Jaime},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{56f35d6688b417d9ab3cfc777218d21f}
+      \strng{fullhash}{56f35d6688b417d9ab3cfc777218d21f}
+      \strng{fullhashraw}{56f35d6688b417d9ab3cfc777218d21f}
+      \strng{bibnamehash}{56f35d6688b417d9ab3cfc777218d21f}
+      \strng{authorbibnamehash}{56f35d6688b417d9ab3cfc777218d21f}
+      \strng{authornamehash}{56f35d6688b417d9ab3cfc777218d21f}
+      \strng{authorfullhash}{56f35d6688b417d9ab3cfc777218d21f}
+      \strng{authorfullhashraw}{56f35d6688b417d9ab3cfc777218d21f}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Economía UNAM}
+      \field{number}{36}
+      \field{title}{{¿}Por qué cae la participación de los salarios en el ingreso total en México?}
+      \field{volume}{12}
+      \field{year}{2015}
+      \field{pages}{3\bibrangedash 15}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.eunam.2015.10.001
+      \endverb
+    \endentry
+    \entry{samaniego_2014}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=502ba9055fd73db872b281ec041f0b26}{%
+           family={Samaniego\bibnamedelima Breach},
+           familyi={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Norma},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{502ba9055fd73db872b281ec041f0b26}
+      \strng{fullhash}{502ba9055fd73db872b281ec041f0b26}
+      \strng{fullhashraw}{502ba9055fd73db872b281ec041f0b26}
+      \strng{bibnamehash}{502ba9055fd73db872b281ec041f0b26}
+      \strng{authorbibnamehash}{502ba9055fd73db872b281ec041f0b26}
+      \strng{authornamehash}{502ba9055fd73db872b281ec041f0b26}
+      \strng{authorfullhash}{502ba9055fd73db872b281ec041f0b26}
+      \strng{authorfullhashraw}{502ba9055fd73db872b281ec041f0b26}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Economía UNAM}
+      \field{number}{33}
+      \field{title}{La participación del trabajo en el ingreso nacional: el regreso a un tema olvidado}
+      \field{volume}{11}
+      \field{year}{2014}
+      \field{pages}{52\bibrangedash 77}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1016/S1665-952X(14)72181-4
+      \endverb
+    \endentry
+    \entry{stockhammer_2004}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4a9dcd2d346549adb569eca71d4f9403}{%
+           family={Stockhammer},
+           familyi={S\bibinitperiod},
+           given={Engelbert},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4a9dcd2d346549adb569eca71d4f9403}
+      \strng{fullhash}{4a9dcd2d346549adb569eca71d4f9403}
+      \strng{fullhashraw}{4a9dcd2d346549adb569eca71d4f9403}
+      \strng{bibnamehash}{4a9dcd2d346549adb569eca71d4f9403}
+      \strng{authorbibnamehash}{4a9dcd2d346549adb569eca71d4f9403}
+      \strng{authornamehash}{4a9dcd2d346549adb569eca71d4f9403}
+      \strng{authorfullhash}{4a9dcd2d346549adb569eca71d4f9403}
+      \strng{authorfullhashraw}{4a9dcd2d346549adb569eca71d4f9403}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cambridge Journal of Economics}
+      \field{number}{5}
+      \field{title}{Financialisation and the Slowdown of Accumulation}
+      \field{volume}{28}
+      \field{year}{2004}
+      \field{pages}{719\bibrangedash 741}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1093/cje/beh032
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{alvarado_orraca_cabrera_2023}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3df68f5e43c384de01098f2fb6c368e0}{%
+           family={Alvarado\bibnamedelima Pérez},
+           familyi={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={René},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93f0c82d59d2eba953d7f27b952576ab}{%
+           family={Orraca\bibnamedelima Romano},
+           familyi={O\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Pedro\bibnamedelima Paulo},
+           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93216ea3b239f22f41491f7c534fa69b}{%
+           family={Cabrera-Hernández},
+           familyi={C\bibinithyphendelim H\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{14e3b883d6357b9496ed387878dbb195}
+      \strng{fullhash}{3c6b15aaceb62e86e0cf2c797d3288a3}
+      \strng{fullhashraw}{3c6b15aaceb62e86e0cf2c797d3288a3}
+      \strng{bibnamehash}{3c6b15aaceb62e86e0cf2c797d3288a3}
+      \strng{authorbibnamehash}{3c6b15aaceb62e86e0cf2c797d3288a3}
+      \strng{authornamehash}{14e3b883d6357b9496ed387878dbb195}
+      \strng{authorfullhash}{3c6b15aaceb62e86e0cf2c797d3288a3}
+      \strng{authorfullhashraw}{3c6b15aaceb62e86e0cf2c797d3288a3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{El Trimestre Económico}
+      \field{number}{360}
+      \field{title}{El efecto de duplicar el salario mínimo en la brecha de género en empleo y salarios en México}
+      \field{volume}{90}
+      \field{year}{2023}
+      \field{pages}{961\bibrangedash 999}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.20430/ete.v90i360.1777
+      \endverb
+    \endentry
+    \entry{arcand_berkes_panizza_2015}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1db40a40ab5b0673f8ddc07ff8afe9a3}{%
+           family={Arcand},
+           familyi={A\bibinitperiod},
+           given={Jean-Louis},
+           giveni={J\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6465c1fb667359e338edefc4cc0b0d8}{%
+           family={Berkes},
+           familyi={B\bibinitperiod},
+           given={Enrico},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd57960c368ca81c5b1f70ee37a35fb3}{%
+           family={Panizza},
+           familyi={P\bibinitperiod},
+           given={Ugo},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{88be716ac55f1d1348f667f1ac9a82e1}
+      \strng{fullhash}{b59e4586a6ed76254ddf559387c2b5eb}
+      \strng{fullhashraw}{b59e4586a6ed76254ddf559387c2b5eb}
+      \strng{bibnamehash}{b59e4586a6ed76254ddf559387c2b5eb}
+      \strng{authorbibnamehash}{b59e4586a6ed76254ddf559387c2b5eb}
+      \strng{authornamehash}{88be716ac55f1d1348f667f1ac9a82e1}
+      \strng{authorfullhash}{b59e4586a6ed76254ddf559387c2b5eb}
+      \strng{authorfullhashraw}{b59e4586a6ed76254ddf559387c2b5eb}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Growth}
+      \field{number}{2}
+      \field{title}{Too Much Finance?}
+      \field{volume}{20}
+      \field{year}{2015}
+      \field{pages}{105\bibrangedash 148}
+      \range{pages}{44}
+      \verb{doi}
+      \verb 10.1007/s10887-015-9115-2
+      \endverb
+    \endentry
+    \entry{bielschowsky_etal_2022}{report}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=1c0802b6c3870fef0d8990ebb5873853}{%
+           family={Bielschowsky},
+           familyi={B\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b54a4184ff87482375e3350d0cbe5ba}{%
+           family={Castillo},
+           familyi={C\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod},
+           givenun=0,
+           prefix={del},
+           prefixi={d\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=ac7fc2b4295707038b165c7d81422de0}{%
+           family={Squeff},
+           familyi={S\bibinitperiod},
+           given={Gabriel\bibnamedelima Coelho},
+           giveni={G\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=225ce75b1034bcba862b4b757517d46e}{%
+           family={Orozco},
+           familyi={O\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1b5e2864026ee3a1085852e28bc2011}{%
+           family={Beteta},
+           familyi={B\bibinitperiod},
+           given={Hugo\bibnamedelima E.},
+           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Comisión Económica para América Latina y el Caribe (CEPAL)}%
+      }
+      \strng{namehash}{6db84a10fce84a04ff8e037c1e6d162c}
+      \strng{fullhash}{933166241844bed87551be7cac373bef}
+      \strng{fullhashraw}{933166241844bed87551be7cac373bef}
+      \strng{bibnamehash}{933166241844bed87551be7cac373bef}
+      \strng{authorbibnamehash}{933166241844bed87551be7cac373bef}
+      \strng{authornamehash}{6db84a10fce84a04ff8e037c1e6d162c}
+      \strng{authorfullhash}{933166241844bed87551be7cac373bef}
+      \strng{authorfullhashraw}{933166241844bed87551be7cac373bef}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{188}
+      \field{series}{Estudios y Perspectivas -- Sede Subregional de la CEPAL en México}
+      \field{title}{Estrategia de desarrollo con redistribución del ingreso: salario mínimo y frentes de expansión en México}
+      \field{type}{techreport}
+      \field{year}{2022}
+    \endentry
+    \entry{caballero_lopez_2014}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4b88c023207bc43c59ca11d83253bea1}{%
+           family={Caballero\bibnamedelima Urdiales},
+           familyi={C\bibinitperiod\bibinitdelim U\bibinitperiod},
+           given={Emilio},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac7303cac00e5b68a76d68b03c6b593f}{%
+           family={López\bibnamedelima Gallardo},
+           familyi={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Julio},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{af9ab8defa480222181400e5e523344a}
+      \strng{fullhash}{af9ab8defa480222181400e5e523344a}
+      \strng{fullhashraw}{af9ab8defa480222181400e5e523344a}
+      \strng{bibnamehash}{af9ab8defa480222181400e5e523344a}
+      \strng{authorbibnamehash}{af9ab8defa480222181400e5e523344a}
+      \strng{authornamehash}{af9ab8defa480222181400e5e523344a}
+      \strng{authorfullhash}{af9ab8defa480222181400e5e523344a}
+      \strng{authorfullhashraw}{af9ab8defa480222181400e5e523344a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Investigación Económica}
+      \field{number}{285}
+      \field{title}{Demanda efectiva y distribución del ingreso en la evolución reciente de la economía mexicana}
+      \field{volume}{72}
+      \field{year}{2014}
+      \field{pages}{141\bibrangedash 163}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1016/S0185-1667(13)72599-2
+      \endverb
+    \endentry
+    \entry{campos_esquivel_santillan_2017}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bf4940a0d81c7251843f436c1b423bfc}{%
+           family={Campos\bibnamedelima Vázquez},
+           familyi={C\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Raymundo\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67ecd61a08d59d7f9a5957e6effac6fc}{%
+           family={Esquivel},
+           familyi={E\bibinitperiod},
+           given={Gerardo},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15e409566534004f8d7d8a68b7407e99}{%
+           family={Santillán\bibnamedelima Hernández},
+           familyi={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Alma\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5df5e61e1120a2aa01b327c357897b0d}
+      \strng{fullhash}{e375cdab3d30a67ee056f4ea180b871e}
+      \strng{fullhashraw}{e375cdab3d30a67ee056f4ea180b871e}
+      \strng{bibnamehash}{e375cdab3d30a67ee056f4ea180b871e}
+      \strng{authorbibnamehash}{e375cdab3d30a67ee056f4ea180b871e}
+      \strng{authornamehash}{5df5e61e1120a2aa01b327c357897b0d}
+      \strng{authorfullhash}{e375cdab3d30a67ee056f4ea180b871e}
+      \strng{authorfullhashraw}{e375cdab3d30a67ee056f4ea180b871e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista de la CEPAL}
+      \field{number}{122}
+      \field{title}{El impacto del salario mínimo en los ingresos y el empleo en México}
+      \field{year}{2017}
+      \field{pages}{205\bibrangedash 234}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.18356/413e4aea-es
+      \endverb
+    \endentry
+    \entry{epstein_2005}{book}{}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=7a78fd683eb9c0ce600975c6eba9b264}{%
+           family={Epstein},
+           familyi={E\bibinitperiod},
+           given={Gerald\bibnamedelima A.},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cheltenham}%
+      }
+      \list{publisher}{1}{%
+        {Edward Elgar}%
+      }
+      \strng{namehash}{7a78fd683eb9c0ce600975c6eba9b264}
+      \strng{fullhash}{7a78fd683eb9c0ce600975c6eba9b264}
+      \strng{fullhashraw}{7a78fd683eb9c0ce600975c6eba9b264}
+      \strng{bibnamehash}{7a78fd683eb9c0ce600975c6eba9b264}
+      \strng{editorbibnamehash}{7a78fd683eb9c0ce600975c6eba9b264}
+      \strng{editornamehash}{7a78fd683eb9c0ce600975c6eba9b264}
+      \strng{editorfullhash}{7a78fd683eb9c0ce600975c6eba9b264}
+      \strng{editorfullhashraw}{7a78fd683eb9c0ce600975c6eba9b264}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Financialization and the World Economy}
+      \field{year}{2005}
+    \endentry
+    \entry{hein_2009}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e721b26e3ecd4db48eee14a48259416f}{%
+           family={Hein},
+           familyi={H\bibinitperiod},
+           given={Eckhard},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {IMK at the Hans Böckler Foundation, Macroeconomic Policy Institute}%
+      }
+      \list{location}{1}{%
+        {Düsseldorf}%
+      }
+      \strng{namehash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{fullhash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{fullhashraw}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{bibnamehash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{authorbibnamehash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{authornamehash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{authorfullhash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{authorfullhashraw}{e721b26e3ecd4db48eee14a48259416f}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{1/2009}
+      \field{title}{A (Post-) Keynesian Perspective on ``Financialisation''}
+      \field{type}{IMK Studies}
+      \field{year}{2009}
+    \endentry
+    \entry{hein_2012}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e721b26e3ecd4db48eee14a48259416f}{%
+           family={Hein},
+           familyi={H\bibinitperiod},
+           given={Eckhard},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{fullhash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{fullhashraw}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{bibnamehash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{authorbibnamehash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{authornamehash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{authorfullhash}{e721b26e3ecd4db48eee14a48259416f}
+      \strng{authorfullhashraw}{e721b26e3ecd4db48eee14a48259416f}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Post Keynesian Economics}
+      \field{number}{3}
+      \field{title}{{`Financialization,'} Distribution, Capital Accumulation, and Productivity Growth in a Post-Kaleckian Model}
+      \field{volume}{34}
+      \field{year}{2012}
+      \field{pages}{475\bibrangedash 496}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.2753/PKE0160-3477340305
+      \endverb
+    \endentry
+    \entry{kaldor_1955}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3a3bf65c45bab0af4cf95bcd04773679}{%
+           family={Kaldor},
+           familyi={K\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3a3bf65c45bab0af4cf95bcd04773679}
+      \strng{fullhash}{3a3bf65c45bab0af4cf95bcd04773679}
+      \strng{fullhashraw}{3a3bf65c45bab0af4cf95bcd04773679}
+      \strng{bibnamehash}{3a3bf65c45bab0af4cf95bcd04773679}
+      \strng{authorbibnamehash}{3a3bf65c45bab0af4cf95bcd04773679}
+      \strng{authornamehash}{3a3bf65c45bab0af4cf95bcd04773679}
+      \strng{authorfullhash}{3a3bf65c45bab0af4cf95bcd04773679}
+      \strng{authorfullhashraw}{3a3bf65c45bab0af4cf95bcd04773679}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Review of Economic Studies}
+      \field{number}{2}
+      \field{title}{Alternative Theories of Distribution}
+      \field{volume}{23}
+      \field{year}{1955}
+      \field{pages}{83\bibrangedash 100}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.2307/2296292
+      \endverb
+    \endentry
+    \entry{kalecki_1954}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a2020ad660d51566f602508edb0efabd}{%
+           family={Kalecki},
+           familyi={K\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {George Allen \& Unwin}%
+      }
+      \strng{namehash}{a2020ad660d51566f602508edb0efabd}
+      \strng{fullhash}{a2020ad660d51566f602508edb0efabd}
+      \strng{fullhashraw}{a2020ad660d51566f602508edb0efabd}
+      \strng{bibnamehash}{a2020ad660d51566f602508edb0efabd}
+      \strng{authorbibnamehash}{a2020ad660d51566f602508edb0efabd}
+      \strng{authornamehash}{a2020ad660d51566f602508edb0efabd}
+      \strng{authorfullhash}{a2020ad660d51566f602508edb0efabd}
+      \strng{authorfullhashraw}{a2020ad660d51566f602508edb0efabd}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Theory of Economic Dynamics: An Essay on Cyclical and Long-Run Changes in Capitalist Economy}
+      \field{year}{1954}
+    \endentry
+    \entry{kalecki_2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a2020ad660d51566f602508edb0efabd}{%
+           family={Kalecki},
+           familyi={K\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{a2020ad660d51566f602508edb0efabd}
+      \strng{fullhash}{a2020ad660d51566f602508edb0efabd}
+      \strng{fullhashraw}{a2020ad660d51566f602508edb0efabd}
+      \strng{bibnamehash}{a2020ad660d51566f602508edb0efabd}
+      \strng{authorbibnamehash}{a2020ad660d51566f602508edb0efabd}
+      \strng{authornamehash}{a2020ad660d51566f602508edb0efabd}
+      \strng{authorfullhash}{a2020ad660d51566f602508edb0efabd}
+      \strng{authorfullhashraw}{a2020ad660d51566f602508edb0efabd}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Theory of Economic Dynamics}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.4324/9780203708668
+      \endverb
+    \endentry
+    \entry{king_levine_1993}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e068047c81ba350319902fe3f06656cf}{%
+           family={King},
+           familyi={K\bibinitperiod},
+           given={Robert\bibnamedelima G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c1cd77b28a968c78efc1362f3c7dd21}{%
+           family={Levine},
+           familyi={L\bibinitperiod},
+           given={Ross},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{43dddf3a5a58b28360879ad7cb1fabc6}
+      \strng{fullhash}{43dddf3a5a58b28360879ad7cb1fabc6}
+      \strng{fullhashraw}{43dddf3a5a58b28360879ad7cb1fabc6}
+      \strng{bibnamehash}{43dddf3a5a58b28360879ad7cb1fabc6}
+      \strng{authorbibnamehash}{43dddf3a5a58b28360879ad7cb1fabc6}
+      \strng{authornamehash}{43dddf3a5a58b28360879ad7cb1fabc6}
+      \strng{authorfullhash}{43dddf3a5a58b28360879ad7cb1fabc6}
+      \strng{authorfullhashraw}{43dddf3a5a58b28360879ad7cb1fabc6}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Quarterly Journal of Economics}
+      \field{number}{3}
+      \field{title}{Finance and Growth: Schumpeter Might Be Right}
+      \field{volume}{108}
+      \field{year}{1993}
+      \field{pages}{717\bibrangedash 737}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.2307/2118406
+      \endverb
+    \endentry
+    \entry{kohler_guschanski_stockhammer_2019}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3149ef01a514bc8bf82b17c52563d0b8}{%
+           family={Kohler},
+           familyi={K\bibinitperiod},
+           given={Karsten},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94e4bd4a363e69b465955dcc3e49520f}{%
+           family={Guschanski},
+           familyi={G\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a9dcd2d346549adb569eca71d4f9403}{%
+           family={Stockhammer},
+           familyi={S\bibinitperiod},
+           given={Engelbert},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{70de81c66a1bde79019df947b74bfdaa}
+      \strng{fullhash}{f77df7fba91f066ab2b19248f64957c2}
+      \strng{fullhashraw}{f77df7fba91f066ab2b19248f64957c2}
+      \strng{bibnamehash}{f77df7fba91f066ab2b19248f64957c2}
+      \strng{authorbibnamehash}{f77df7fba91f066ab2b19248f64957c2}
+      \strng{authornamehash}{70de81c66a1bde79019df947b74bfdaa}
+      \strng{authorfullhash}{f77df7fba91f066ab2b19248f64957c2}
+      \strng{authorfullhashraw}{f77df7fba91f066ab2b19248f64957c2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cambridge Journal of Economics}
+      \field{number}{4}
+      \field{title}{The Impact of Financialisation on the Wage Share: A Theoretical Clarification and Empirical Test}
+      \field{volume}{43}
+      \field{year}{2019}
+      \field{pages}{937\bibrangedash 974}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1093/cje/bez021
+      \endverb
+    \endentry
+    \entry{lapavitsas_2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f0e077bce27359e555d6b5006a87d1d3}{%
+           family={Lapavitsas},
+           familyi={L\bibinitperiod},
+           given={Costas},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Verso}%
+      }
+      \strng{namehash}{f0e077bce27359e555d6b5006a87d1d3}
+      \strng{fullhash}{f0e077bce27359e555d6b5006a87d1d3}
+      \strng{fullhashraw}{f0e077bce27359e555d6b5006a87d1d3}
+      \strng{bibnamehash}{f0e077bce27359e555d6b5006a87d1d3}
+      \strng{authorbibnamehash}{f0e077bce27359e555d6b5006a87d1d3}
+      \strng{authornamehash}{f0e077bce27359e555d6b5006a87d1d3}
+      \strng{authorfullhash}{f0e077bce27359e555d6b5006a87d1d3}
+      \strng{authorfullhashraw}{f0e077bce27359e555d6b5006a87d1d3}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Profiting Without Producing: How Finance Exploits Us All}
+      \field{year}{2013}
+    \endentry
+    \entry{lazonick_osullivan_2000}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fdb1537646cba2fbeba819dfc0ef6ff5}{%
+           family={Lazonick},
+           familyi={L\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1043ec5569525cab91df5f474f62980}{%
+           family={O'Sullivan},
+           familyi={O\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{31d034d91aaa992ec3260bb6795a08ea}
+      \strng{fullhash}{31d034d91aaa992ec3260bb6795a08ea}
+      \strng{fullhashraw}{31d034d91aaa992ec3260bb6795a08ea}
+      \strng{bibnamehash}{31d034d91aaa992ec3260bb6795a08ea}
+      \strng{authorbibnamehash}{31d034d91aaa992ec3260bb6795a08ea}
+      \strng{authornamehash}{31d034d91aaa992ec3260bb6795a08ea}
+      \strng{authorfullhash}{31d034d91aaa992ec3260bb6795a08ea}
+      \strng{authorfullhashraw}{31d034d91aaa992ec3260bb6795a08ea}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Economy and Society}
+      \field{number}{1}
+      \field{title}{Maximizing Shareholder Value: A New Ideology for Corporate Governance}
+      \field{volume}{29}
+      \field{year}{2000}
+      \field{pages}{13\bibrangedash 35}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1080/030851400360541
+      \endverb
+    \endentry
+    \entry{levine_2005}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4c1cd77b28a968c78efc1362f3c7dd21}{%
+           family={Levine},
+           familyi={L\bibinitperiod},
+           given={Ross},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=7c80c989fdd0b446cc5cdac1d9584afe}{%
+           family={Aghion},
+           familyi={A\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+        {{hash=acf839c126335d02866e4ac626835882}{%
+           family={Durlauf},
+           familyi={D\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4c1cd77b28a968c78efc1362f3c7dd21}
+      \strng{fullhash}{4c1cd77b28a968c78efc1362f3c7dd21}
+      \strng{fullhashraw}{4c1cd77b28a968c78efc1362f3c7dd21}
+      \strng{bibnamehash}{4c1cd77b28a968c78efc1362f3c7dd21}
+      \strng{authorbibnamehash}{4c1cd77b28a968c78efc1362f3c7dd21}
+      \strng{authornamehash}{4c1cd77b28a968c78efc1362f3c7dd21}
+      \strng{authorfullhash}{4c1cd77b28a968c78efc1362f3c7dd21}
+      \strng{authorfullhashraw}{4c1cd77b28a968c78efc1362f3c7dd21}
+      \strng{editorbibnamehash}{eba02e7b229944e77d9307bb7ab8ea03}
+      \strng{editornamehash}{eba02e7b229944e77d9307bb7ab8ea03}
+      \strng{editorfullhash}{eba02e7b229944e77d9307bb7ab8ea03}
+      \strng{editorfullhashraw}{eba02e7b229944e77d9307bb7ab8ea03}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of Economic Growth}
+      \field{chapter}{12}
+      \field{title}{Finance and Growth: Theory and Evidence}
+      \field{volume}{1}
+      \field{year}{2005}
+      \field{pages}{865\bibrangedash 934}
+      \range{pages}{70}
+      \verb{doi}
+      \verb 10.1016/S1574-0684(05)01012-9
+      \endverb
+    \endentry
+    \entry{ros_2015}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=56f35d6688b417d9ab3cfc777218d21f}{%
+           family={Ros},
+           familyi={R\bibinitperiod},
+           given={Jaime},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{56f35d6688b417d9ab3cfc777218d21f}
+      \strng{fullhash}{56f35d6688b417d9ab3cfc777218d21f}
+      \strng{fullhashraw}{56f35d6688b417d9ab3cfc777218d21f}
+      \strng{bibnamehash}{56f35d6688b417d9ab3cfc777218d21f}
+      \strng{authorbibnamehash}{56f35d6688b417d9ab3cfc777218d21f}
+      \strng{authornamehash}{56f35d6688b417d9ab3cfc777218d21f}
+      \strng{authorfullhash}{56f35d6688b417d9ab3cfc777218d21f}
+      \strng{authorfullhashraw}{56f35d6688b417d9ab3cfc777218d21f}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Economía UNAM}
+      \field{number}{36}
+      \field{title}{{¿}Por qué cae la participación de los salarios en el ingreso total en México?}
+      \field{volume}{12}
+      \field{year}{2015}
+      \field{pages}{3\bibrangedash 15}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.eunam.2015.10.001
+      \endverb
+    \endentry
+    \entry{samaniego_2014}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=502ba9055fd73db872b281ec041f0b26}{%
+           family={Samaniego\bibnamedelima Breach},
+           familyi={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Norma},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{502ba9055fd73db872b281ec041f0b26}
+      \strng{fullhash}{502ba9055fd73db872b281ec041f0b26}
+      \strng{fullhashraw}{502ba9055fd73db872b281ec041f0b26}
+      \strng{bibnamehash}{502ba9055fd73db872b281ec041f0b26}
+      \strng{authorbibnamehash}{502ba9055fd73db872b281ec041f0b26}
+      \strng{authornamehash}{502ba9055fd73db872b281ec041f0b26}
+      \strng{authorfullhash}{502ba9055fd73db872b281ec041f0b26}
+      \strng{authorfullhashraw}{502ba9055fd73db872b281ec041f0b26}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Economía UNAM}
+      \field{number}{33}
+      \field{title}{La participación del trabajo en el ingreso nacional: el regreso a un tema olvidado}
+      \field{volume}{11}
+      \field{year}{2014}
+      \field{pages}{52\bibrangedash 77}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1016/S1665-952X(14)72181-4
+      \endverb
+    \endentry
+    \entry{stockhammer_2004}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4a9dcd2d346549adb569eca71d4f9403}{%
+           family={Stockhammer},
+           familyi={S\bibinitperiod},
+           given={Engelbert},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4a9dcd2d346549adb569eca71d4f9403}
+      \strng{fullhash}{4a9dcd2d346549adb569eca71d4f9403}
+      \strng{fullhashraw}{4a9dcd2d346549adb569eca71d4f9403}
+      \strng{bibnamehash}{4a9dcd2d346549adb569eca71d4f9403}
+      \strng{authorbibnamehash}{4a9dcd2d346549adb569eca71d4f9403}
+      \strng{authornamehash}{4a9dcd2d346549adb569eca71d4f9403}
+      \strng{authorfullhash}{4a9dcd2d346549adb569eca71d4f9403}
+      \strng{authorfullhashraw}{4a9dcd2d346549adb569eca71d4f9403}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cambridge Journal of Economics}
+      \field{number}{5}
+      \field{title}{Financialisation and the Slowdown of Accumulation}
+      \field{volume}{28}
+      \field{year}{2004}
+      \field{pages}{719\bibrangedash 741}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1093/cje/beh032
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{stockhammer_2012}
+\endrefsection
+\endinput
+
